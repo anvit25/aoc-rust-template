@@ -4,4 +4,4 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-aoc-utils = {path = "../aoc-utils"}
+aoc-utils = {path = "../aoc-utils-rust"}
